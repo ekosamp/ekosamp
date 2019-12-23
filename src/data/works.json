@@ -1,0 +1,110 @@
+[{
+  "title": "Nemophila",
+  "category": [ "design" ],
+  "client": "Project",
+  "year": "2019",
+  "featured": true,
+  "url": "https://www.behance.net/gallery/89692475/Nemophila-Font",
+  "image": {
+    "src": "/images/works/nemophila/nm.jpg",
+    "sources": [{
+      "media": "max-width: 40rem",
+      "srcset": [
+        "/images/works/nemophila/nm.jpg 1x",
+        "/images/works/anemophila/nm-s-2x.jpg 2x",
+        "/images/works/anemophila/nm-s-3x.jpg 3x"
+      ]      
+    },{
+      "srcset": [
+        "/images/works/nemophila/nm.jpg 1x",
+        "/images/works/nemophila/nm-2x.jpg 2x",
+        "/images/works/nemophila/nm-3x.jpg 3x"
+      ]      
+    }]
+  }
+},{
+  "title": "Andrographis",
+  "category": [ "design" ],
+  "collaborators": [ "Incode" ],
+  "client": "Project",
+  "year": "2019",
+  "featured": true,
+  "image": {
+    "src": "/images/works/andro/andro.jpg",
+    "sources": [{
+      "media": "max-width: 40rem",
+      "srcset": [
+        "/images/works/andro/andro.jpg 1x",
+        "/images/works/andro/andro.jpg 2x",
+        "/images/works/andro/andro.jpg 3x"
+      ]      
+    },{
+      "srcset": [
+        "/images/works/andro/andro.jpg 1x",
+        "/images/works/andro/andro.jpg 2x",
+        "/images/works/andro/andro.jpg 3x"
+      ]      
+    }]
+  }
+},{
+  "title": "Encryption AES 128 - website",
+  "category": [ "design", "code" ],
+  "client": "Ahmad Dahlan University",
+  "url":"https://enkripsi.herokuapp.com/index.html",
+  "year": "2019",
+  "featured": false
+},{
+  "title": "Pencak Silat - UI",
+  "category": [ "design" ],
+  "client": "Project",
+  "url": "https://www.behance.net/gallery/70134127/Pencak-Silat-UI-Concept-Landing-Page",
+  "year": "2018",
+  "featured": false
+},{
+  "title": "Patuan - UI",
+  "category": [ "design" ],
+  "client": "Project",
+  "url": "https://www.behance.net/gallery/69199681/Patuan-Modern-Landing-Page-for-Shoes",
+  "year": "2018",
+  "featured": false
+},{
+  "title": "Ngebazz - UI",
+  "category": [ "design" ],
+  "client": "Project",
+  "url": "https://www.behance.net/gallery/69172249/NgeBAZZ-Minimal-layout-for-a-landing-page",
+  "year": "2018",
+  "featured": false
+},{
+  "title": "Portal Sekolah - website",
+  "category": [ "code" ],
+  "client": "SMAN 1 KOPANG",
+  "url": "https://smansa-kopang.sch.id/",
+  "year": "2018",
+  "featured": false
+},{
+  "title": "Amnotel - websits",
+  "category": [ "design", "code" ],
+  "client": "CV. Amnotel",
+  "collaborators": ["Team Elang"],
+  "url": "https://amnotel.co.id/",
+  "year": "2017",
+  "featured": false
+},{
+  "title": "Nuta Media - website",
+  "category": [ "design", "code" ],
+  "client": "BackEnd Dev",
+  "year": "2015",
+  "featured": false
+},{
+  "title": "Booking Futsal - Website",
+  "category": [ "design", "code" ],
+  "client": "Project",
+  "year": "2015",
+  "featured": false
+},{
+  "title": "Nuha Medika",
+  "category": [ "design", "code" ],
+  "client": "Graphic Designer",
+  "year": "2013",
+  "featured": false
+}]
