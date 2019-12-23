@@ -5,7 +5,7 @@ import { Wrapper, Item } from './style'
 const Footer = () =>
   <Wrapper>
     <Item position='left'>
-      Made with love and coffee - {getCurrentYear()}
+      Made with ♥ and ☕ - {getCurrentYear()}
     </Item>
     <Item position='right'>
      
