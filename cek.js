@@ -20,21 +20,10 @@ let content = [];content.push(document.write(unescape('<link href="https://www.c
                         <option value="jne">Jalur Nugraha Ekakurir (JNE)</option>
                         <option value="pos">POS Indonesia (POS)</option>
                         <option value="tiki">Citra Van Titipan Kilat (TIKI)</option>
-                        <option value="pcp">Priority Cargo and Package (PCP)</option>
-                        <option value="anteraja">AnterAja (ANTERAJA)</option>
-                        <option value="lex">Lazada eLogistics Express (LEX)</option>
                         <option value="wahana">Wahana Prestasi Logistik (WAHANA)</option>
                         <option value="sicepat">SiCepat Express (SICEPAT)</option>
                         <option value="jnt">J&T Express (J&T)</option>
-                        <option value="sap">SAP Express (SAP)</option>
-                        <option value="jet">JET Express (JET)</option>
-                        <option value="dse">21 Express (DSE)</option>
-                        <option value="first">First Logistics (FIRST)</option>
-                        <option value="lion">Lion Parcel (LION)</option>
-                        <option value="ninja">Ninja Xpress (NINJA)</option>
-                        <option value="idl">IDL Cargo (IDL)</option>
-                        <option value="rex">REX Kiriman Express (REX)</option>
-                        <option value="nss">Nusantara Surya Sakti Express (NSS)</option>
+                       
                     </select>
                 </div>
                 <div class="column action">
@@ -87,11 +76,7 @@ let content = [];content.push(document.write(unescape('<link href="https://www.c
                                 <input class="apple-switch" type="checkbox" id="jnt" value="jnt" checked />
                                 <label for="jnt">JNT</label>
                             </div>
-                           
-                            <div class="listCheckbox">
-                                <input class="apple-switch" type="checkbox" id="ninja" value="ninja" checked/>
-                                <label for="ninja">NINJA</label>
-                            </div>
+                        
                            
                         </div>
                     </div>
